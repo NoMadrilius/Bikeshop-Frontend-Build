@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.295f1010.css",
-    "main.js": "/static/js/main.bce0b909.js",
+    "main.css": "/static/css/main.f81a38d7.css",
+    "main.js": "/static/js/main.5fdf9c04.js",
     "static/media/header-photo_wide.jpg": "/static/media/header-photo_wide.7b2bd65703f0d9054e78.jpg",
     "static/media/header-photo_01.png": "/static/media/header-photo_01.670bbbcbca50bdad4ea1.png",
-    "static/media/workshop-banner.png": "/static/media/workshop-banner.a92d49c25ca66de404f0.png",
+    "static/media/workshop-banner-with-text.png": "/static/media/workshop-banner-with-text.5bd98144e1da1b26d6db.png",
     "static/media/isLoadingBikeShop-03.gif": "/static/media/isLoadingBikeShop-03.63cedc25a172667bc507.gif",
     "static/media/header-photo_02.jpg": "/static/media/header-photo_02.1c15d813fa55997d9b7e.jpg",
     "static/media/workshop-04.jpg": "/static/media/workshop-04.458973c5998c2996e57a.jpg",
@@ -18,7 +18,6 @@
     "static/media/money-icon.svg": "/static/media/money-icon.de85541bf2ffa61e5ec4e3f4c1af3560.svg",
     "static/media/catalog-food.png": "/static/media/catalog-food.00074e210323227869b7.png",
     "static/media/catalog-accessories.png": "/static/media/catalog-accessories.17645c1f7f860247de04.png",
-    "static/media/map-00.png": "/static/media/map-00.ef8702dc28f18d651f85.png",
     "static/media/all-icon.svg": "/static/media/all-icon.46cbaae1d8ec1f2d52efc54fe1efeb1f.svg",
     "static/media/mechanic-icon.svg": "/static/media/mechanic-icon.f20deb0b4e7b9939dd1b8ff0709163dc.svg",
     "static/media/catalog-clothes.png": "/static/media/catalog-clothes.22073639022f39dad58a.png",
@@ -44,6 +43,8 @@
     "static/media/catalog-icon-01.svg": "/static/media/catalog-icon-01.82cb362d27c9503865d78969ccccf50e.svg",
     "index.html": "/index.html",
     "static/media/register-icon-05.svg": "/static/media/register-icon-05.ba4f787acd363d391b2b7c76478eb004.svg",
+    "static/media/arrow-square-down.svg": "/static/media/arrow-square-down.0c289f5c8b058361ae87d73d7ae3a722.svg",
+    "static/media/arrow-square-right.svg": "/static/media/arrow-square-right.2765f94c9c8df76217d63fd159523aa6.svg",
     "static/media/login-icon-02.svg": "/static/media/login-icon-02.5146a602158769ea6659b95e7097be79.svg",
     "static/media/login-icon-02-white.svg": "/static/media/login-icon-02-white.425699f7658000c86cdedbcc19d9c625.svg",
     "static/media/logout-icon.svg": "/static/media/logout-icon.d0a18276c5022c5d41fcbb573bb881e5.svg",
@@ -57,11 +58,11 @@
     "static/media/arrow-full-up.svg": "/static/media/arrow-full-up.838e34033cbaa0f3d4ed8bf5360051eb.svg",
     "static/media/notification-light.svg": "/static/media/notification-light.d3879fb7f92c6854afa9a05087dcc4d7.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.295f1010.css.map": "/static/css/main.295f1010.css.map",
-    "main.bce0b909.js.map": "/static/js/main.bce0b909.js.map"
+    "main.f81a38d7.css.map": "/static/css/main.f81a38d7.css.map",
+    "main.5fdf9c04.js.map": "/static/js/main.5fdf9c04.js.map"
   },
   "entrypoints": [
-    "static/css/main.295f1010.css",
-    "static/js/main.bce0b909.js"
+    "static/css/main.f81a38d7.css",
+    "static/js/main.5fdf9c04.js"
   ]
 }
