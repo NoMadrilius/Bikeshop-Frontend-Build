@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fc387e2d.css",
-    "main.js": "/static/js/main.47bead17.js",
+    "main.js": "/static/js/main.f3c658a3.js",
     "static/media/header-photo_wide.jpg": "/static/media/header-photo_wide.7b2bd65703f0d9054e78.jpg",
     "static/media/header-photo_01.png": "/static/media/header-photo_01.670bbbcbca50bdad4ea1.png",
     "static/media/workshop-banner-with-text.png": "/static/media/workshop-banner-with-text.5bd98144e1da1b26d6db.png",
@@ -61,10 +61,10 @@
     "static/media/notification-light.svg": "/static/media/notification-light.d3879fb7f92c6854afa9a05087dcc4d7.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.fc387e2d.css.map": "/static/css/main.fc387e2d.css.map",
-    "main.47bead17.js.map": "/static/js/main.47bead17.js.map"
+    "main.f3c658a3.js.map": "/static/js/main.f3c658a3.js.map"
   },
   "entrypoints": [
     "static/css/main.fc387e2d.css",
-    "static/js/main.47bead17.js"
+    "static/js/main.f3c658a3.js"
   ]
 }
