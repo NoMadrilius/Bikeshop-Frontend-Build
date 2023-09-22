@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d2a5791.css",
-    "main.js": "/static/js/main.83792c15.js",
+    "main.css": "/static/css/main.f4c97bae.css",
+    "main.js": "/static/js/main.e73f04e9.js",
     "static/media/header-photo_wide.jpg": "/static/media/header-photo_wide.7b2bd65703f0d9054e78.jpg",
     "static/media/header-photo_01.png": "/static/media/header-photo_01.670bbbcbca50bdad4ea1.png",
     "static/media/workshop-banner-with-text.png": "/static/media/workshop-banner-with-text.5bd98144e1da1b26d6db.png",
@@ -50,6 +50,7 @@
     "static/media/login-icon-02.svg": "/static/media/login-icon-02.5146a602158769ea6659b95e7097be79.svg",
     "static/media/login-icon-02-white.svg": "/static/media/login-icon-02-white.425699f7658000c86cdedbcc19d9c625.svg",
     "static/media/logout-icon.svg": "/static/media/logout-icon.d0a18276c5022c5d41fcbb573bb881e5.svg",
+    "static/media/no-image-svgrepo-com.svg": "/static/media/no-image-svgrepo-com.ee103990b2f6a9c970f0dec66f362fef.svg",
     "static/media/cancel-icon-black.svg": "/static/media/cancel-icon-black.5f650f03305b7359a9752f8f2f10c8cf.svg",
     "static/media/cancel-icon-white.svg": "/static/media/cancel-icon-white.ff99345578f11fe4fd22c2eecc55cf0e.svg",
     "static/media/profile-icon-02-white.svg": "/static/media/profile-icon-02-white.6d13ec294ba0eb797a1215a908e82635.svg",
@@ -60,11 +61,11 @@
     "static/media/arrow-full-up.svg": "/static/media/arrow-full-up.838e34033cbaa0f3d4ed8bf5360051eb.svg",
     "static/media/notification-light.svg": "/static/media/notification-light.d3879fb7f92c6854afa9a05087dcc4d7.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.8d2a5791.css.map": "/static/css/main.8d2a5791.css.map",
-    "main.83792c15.js.map": "/static/js/main.83792c15.js.map"
+    "main.f4c97bae.css.map": "/static/css/main.f4c97bae.css.map",
+    "main.e73f04e9.js.map": "/static/js/main.e73f04e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d2a5791.css",
-    "static/js/main.83792c15.js"
+    "static/css/main.f4c97bae.css",
+    "static/js/main.e73f04e9.js"
   ]
 }
