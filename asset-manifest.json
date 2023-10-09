@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2a893b2.css",
-    "main.js": "/static/js/main.3d58d67b.js",
+    "main.css": "/static/css/main.19b345ed.css",
+    "main.js": "/static/js/main.801ea042.js",
     "static/media/header-photo_wide.jpg": "/static/media/header-photo_wide.7b2bd65703f0d9054e78.jpg",
     "static/media/header-photo_01.png": "/static/media/header-photo_01.670bbbcbca50bdad4ea1.png",
     "static/media/workshop-banner-with-text.png": "/static/media/workshop-banner-with-text.5bd98144e1da1b26d6db.png",
@@ -11,12 +11,18 @@
     "static/media/workshop-02.jpg": "/static/media/workshop-02.f00ce7f35aadd17e310b.jpg",
     "static/media/workshop-01.jpg": "/static/media/workshop-01.06ac00a1225c5b30ca82.jpg",
     "static/media/workshop-03.jpg": "/static/media/workshop-03.26f1a4231a57d93bea85.jpg",
+    "static/media/200.png": "/static/media/200.e3bf17c467017291b649.png",
     "static/media/catalog-bikes.png": "/static/media/catalog-bikes.0d0812251ec341acb064.png",
+    "static/media/1000.png": "/static/media/1000.d462ba4f83f36b262d5a.png",
+    "static/media/500.png": "/static/media/500.1e2172d1cc23bbd580b0.png",
     "static/media/sorryNoImage.jpg": "/static/media/sorryNoImage.b5581c9ce15e8013f0cc.jpg",
     "static/media/wrench-icon.svg": "/static/media/wrench-icon.b367d64b1cad9a62403d7161e5823317.svg",
+    "static/media/100.png": "/static/media/100.937c2e6f187a0e27afc4.png",
     "static/media/catalog-protection.png": "/static/media/catalog-protection.5b197819d05091af8058.png",
     "static/media/money-icon.svg": "/static/media/money-icon.de85541bf2ffa61e5ec4e3f4c1af3560.svg",
     "static/media/catalog-food.png": "/static/media/catalog-food.00074e210323227869b7.png",
+    "static/media/20.png": "/static/media/20.7bfd0c146388de8c0122.png",
+    "static/media/50.png": "/static/media/50.8a4376db971e696ca2cf.png",
     "static/media/catalog-accessories.png": "/static/media/catalog-accessories.17645c1f7f860247de04.png",
     "static/media/all-icon.svg": "/static/media/all-icon.46cbaae1d8ec1f2d52efc54fe1efeb1f.svg",
     "static/media/mechanic-icon.svg": "/static/media/mechanic-icon.f20deb0b4e7b9939dd1b8ff0709163dc.svg",
@@ -30,12 +36,16 @@
     "static/media/paycard-icon.svg": "/static/media/paycard-icon.f88d15f03851236d5a16f1c61af5908d.svg",
     "static/media/remove-icon.svg": "/static/media/remove-icon.643f1ee3a662891c4e5150a18e412337.svg",
     "static/media/cash-icon.svg": "/static/media/cash-icon.5819962afabaca321729ab1ed60797a6.svg",
+    "static/media/card-machine-atm-svgrepo-com.svg": "/static/media/card-machine-atm-svgrepo-com.8657c7e234896974043ba50be277adcc.svg",
     "static/media/mastercard.svg": "/static/media/mastercard.6fe5209e5a89dcb7cf7ca731be47ddf9.svg",
+    "static/media/cash-svgrepo-com.svg": "/static/media/cash-svgrepo-com.9a2c9e5c43b9e1e8b38f1ec1fdf2a2ba.svg",
     "static/media/cancel-icon-03.svg": "/static/media/cancel-icon-03.bcca52742f75398cd95c3f884a960779.svg",
     "static/media/cart-full.svg": "/static/media/cart-full.635f92615b414270a791101fa5610be3.svg",
     "static/media/ShopLogo.svg": "/static/media/ShopLogo.7136007328e9b917e8790d0adf124909.svg",
     "static/media/bicycle-02.svg": "/static/media/bicycle-02.7136007328e9b917e8790d0adf124909.svg",
     "static/media/contacts-icon-01.svg": "/static/media/contacts-icon-01.f943e72eb30ca8471cc5dc4a22b47820.svg",
+    "static/media/icons8-phone-400.svg": "/static/media/icons8-phone-400.75cae4d514e2699f5fdb1c5a9a73a41e.svg",
+    "static/media/card-svgrepo-com.svg": "/static/media/card-svgrepo-com.1f58dd2a6f68dc03d2015893440afb6d.svg",
     "static/media/magnifying-glass-black.svg": "/static/media/magnifying-glass-black.60a6fb8e574a0e688f8efcebd1ce4f03.svg",
     "static/media/magnifying-glass-white.svg": "/static/media/magnifying-glass-white.71858ad80b31c342d17db251d5ba1ec4.svg",
     "static/media/visa.svg": "/static/media/visa.2709cf850a7dc02978721c178fa5e97b.svg",
@@ -61,11 +71,11 @@
     "static/media/arrow-full-up.svg": "/static/media/arrow-full-up.838e34033cbaa0f3d4ed8bf5360051eb.svg",
     "static/media/notification-light.svg": "/static/media/notification-light.d3879fb7f92c6854afa9a05087dcc4d7.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.d2a893b2.css.map": "/static/css/main.d2a893b2.css.map",
-    "main.3d58d67b.js.map": "/static/js/main.3d58d67b.js.map"
+    "main.19b345ed.css.map": "/static/css/main.19b345ed.css.map",
+    "main.801ea042.js.map": "/static/js/main.801ea042.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2a893b2.css",
-    "static/js/main.3d58d67b.js"
+    "static/css/main.19b345ed.css",
+    "static/js/main.801ea042.js"
   ]
 }
