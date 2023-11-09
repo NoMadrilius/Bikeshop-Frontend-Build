@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0278432a.css",
-    "main.js": "/static/js/main.3262b3a6.js",
+    "main.css": "/static/css/main.edb2685c.css",
+    "main.js": "/static/js/main.476d6710.js",
     "static/media/header-photo_wide.jpg": "/static/media/header-photo_wide.7b2bd65703f0d9054e78.jpg",
     "static/media/header-photo_01.png": "/static/media/header-photo_01.670bbbcbca50bdad4ea1.png",
     "static/media/workshop-banner-with-text.png": "/static/media/workshop-banner-with-text.5bd98144e1da1b26d6db.png",
@@ -32,6 +32,7 @@
     "static/media/catalog-chemistry.png": "/static/media/catalog-chemistry.698331b29db75745100e.png",
     "static/media/user-icon.svg": "/static/media/user-icon.ca40b3dbbb0620742e06a8d4c9455933.svg",
     "static/media/catalog-raznoe.png": "/static/media/catalog-raznoe.b24e137b11820585ddf3.png",
+    "static/media/axios.cjs": "/static/media/axios.e7d77f0967a69d31d7fc.cjs",
     "static/media/package-icon.svg": "/static/media/package-icon.36582c69390ed710aa60f93376d12dde.svg",
     "static/media/paycard-icon.svg": "/static/media/paycard-icon.f88d15f03851236d5a16f1c61af5908d.svg",
     "static/media/remove-icon.svg": "/static/media/remove-icon.643f1ee3a662891c4e5150a18e412337.svg",
@@ -71,11 +72,11 @@
     "static/media/arrow-full-up.svg": "/static/media/arrow-full-up.838e34033cbaa0f3d4ed8bf5360051eb.svg",
     "static/media/notification-light.svg": "/static/media/notification-light.d3879fb7f92c6854afa9a05087dcc4d7.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.0278432a.css.map": "/static/css/main.0278432a.css.map",
-    "main.3262b3a6.js.map": "/static/js/main.3262b3a6.js.map"
+    "main.edb2685c.css.map": "/static/css/main.edb2685c.css.map",
+    "main.476d6710.js.map": "/static/js/main.476d6710.js.map"
   },
   "entrypoints": [
-    "static/css/main.0278432a.css",
-    "static/js/main.3262b3a6.js"
+    "static/css/main.edb2685c.css",
+    "static/js/main.476d6710.js"
   ]
 }
