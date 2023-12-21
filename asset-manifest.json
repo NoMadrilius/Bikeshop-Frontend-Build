@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93316776.css",
-    "main.js": "/static/js/main.d681e996.js",
+    "main.js": "/static/js/main.fdff4fdd.js",
     "static/media/header-photo_wide.jpg": "/static/media/header-photo_wide.7b2bd65703f0d9054e78.jpg",
     "static/media/isLoadingBikeShop-03.gif": "/static/media/isLoadingBikeShop-03.63cedc25a172667bc507.gif",
     "static/media/200.png": "/static/media/200.e3bf17c467017291b649.png",
@@ -37,10 +37,10 @@
     "static/media/notification-light.svg": "/static/media/notification-light.d3879fb7f92c6854afa9a05087dcc4d7.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.93316776.css.map": "/static/css/main.93316776.css.map",
-    "main.d681e996.js.map": "/static/js/main.d681e996.js.map"
+    "main.fdff4fdd.js.map": "/static/js/main.fdff4fdd.js.map"
   },
   "entrypoints": [
     "static/css/main.93316776.css",
-    "static/js/main.d681e996.js"
+    "static/js/main.fdff4fdd.js"
   ]
 }
