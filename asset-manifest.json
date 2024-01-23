@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2f4a884.css",
-    "main.js": "/static/js/main.80d6f02c.js",
+    "main.css": "/static/css/main.e499effa.css",
+    "main.js": "/static/js/main.90f21d55.js",
     "static/media/header-photo_wide.jpg": "/static/media/header-photo_wide.7b2bd65703f0d9054e78.jpg",
     "static/media/isLoadingBikeShop-03.gif": "/static/media/isLoadingBikeShop-03.63cedc25a172667bc507.gif",
     "static/media/200.png": "/static/media/200.e3bf17c467017291b649.png",
@@ -36,11 +36,11 @@
     "static/media/arrow-full-up.svg": "/static/media/arrow-full-up.838e34033cbaa0f3d4ed8bf5360051eb.svg",
     "static/media/notification-light.svg": "/static/media/notification-light.d3879fb7f92c6854afa9a05087dcc4d7.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.d2f4a884.css.map": "/static/css/main.d2f4a884.css.map",
-    "main.80d6f02c.js.map": "/static/js/main.80d6f02c.js.map"
+    "main.e499effa.css.map": "/static/css/main.e499effa.css.map",
+    "main.90f21d55.js.map": "/static/js/main.90f21d55.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2f4a884.css",
-    "static/js/main.80d6f02c.js"
+    "static/css/main.e499effa.css",
+    "static/js/main.90f21d55.js"
   ]
 }
